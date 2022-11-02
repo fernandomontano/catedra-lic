@@ -3,6 +3,9 @@ path {
   stroke: #3c4096;
   stroke-width: 0.1rem;
 }
+a {
+  cursor: pointer;
+}
 .w {
   width: 60%;
 }
