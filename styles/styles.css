@@ -18,3 +18,9 @@ path:hover {
   transition: all 0.7s ease-in-out 0s;
   -webkit-transition: all 0.7s ease-in-out 0s;
 }
+a:active,
+a:focus {
+  outline: 0;
+  border: none;
+  -moz-outline-style: none;
+}
